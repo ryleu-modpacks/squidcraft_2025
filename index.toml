@@ -125,6 +125,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "64ceb9fd4d0386fd91c8fe78c48ee69098f94a9cce18135e5491d104314448c9"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "5294af7acdc97b72641ef6661bda5e332fc0f114249f0632ff55124edf79e301"
 metafile = true

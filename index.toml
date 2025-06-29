@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/soldisco.json5"
+hash = "c2c889a29df11a368d7d891c1dc7fc55877d5f1ae4f85b98304764b30fc39137"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "05e3fa4144ef169a66d5af6bfe9868153986201f177239a95910855aaccba733"
 metafile = true
@@ -588,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "15df6d21580f14c70ae237cbe794911101897664fdfd913ff47c6b39cb671d11"
+metafile = true
+
+[[files]]
+file = "mods/soldisco.pw.toml"
+hash = "7e6c2281c9017e703b80fbae355f918299b04edb858e10f64316fa7879a8f059"
 metafile = true
 
 [[files]]

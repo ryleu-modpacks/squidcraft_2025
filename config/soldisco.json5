@@ -1,4 +1,4 @@
 {
-    "formula": "8 + 2 * floor(foodsEaten / 5)",
-    "minHp": 8.0
+    "formula": "16 + 2 * floor(foodsEaten / 5)",
+    "minHp": 16.0
 }

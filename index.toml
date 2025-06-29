@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/soldisco.json5"
-hash = "c2c889a29df11a368d7d891c1dc7fc55877d5f1ae4f85b98304764b30fc39137"
+hash = "7d0807925c3c7c14ec3b0369bb2e1e06623aefca134b4246c7dd15c0c6bc4cc9"
 
 [[files]]
 file = "mods/accessories.pw.toml"

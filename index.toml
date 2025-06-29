@@ -46,6 +46,11 @@ hash = "1df383137d9ebafa5313df989f2ead4f398a444574eac72a9608f8d425c54b62"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "78cf0017b033f9f9020d178f1c32b40058bbbd4002ff43ee4749efcf67982227"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "5294af7acdc97b72641ef6661bda5e332fc0f114249f0632ff55124edf79e301"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "82d517e64152313be1856e75524d5622fed22c78b14f0d55c7a6055f719500c8"
 metafile = true
 
 [[files]]

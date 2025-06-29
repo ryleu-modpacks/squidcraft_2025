@@ -1,0 +1,13 @@
+name = "Happiness (is a) Warm Gun"
+filename = "hwg-fabric-1.21.1-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SPMW1tzD/versions/p1LfTDHW/hwg-fabric-1.21.1-3.0.4.jar"
+hash-format = "sha512"
+hash = "41bd4bf827cb3692d401eef93c6ff530e00e32b70a3951c4643462c8404362669a538939dcf0c0993e8a339a0357e698c0078ddb05c0949bcc08b0b5b840cad7"
+
+[update]
+[update.modrinth]
+mod-id = "SPMW1tzD"
+version = "p1LfTDHW"

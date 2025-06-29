@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/soldisco.pw.toml"
-hash = "7e6c2281c9017e703b80fbae355f918299b04edb858e10f64316fa7879a8f059"
+hash = "67a1dda3a89f7729f057c0032ac141f46fdb58430ffb0530be203bfc9b1be677"
 metafile = true
 
 [[files]]

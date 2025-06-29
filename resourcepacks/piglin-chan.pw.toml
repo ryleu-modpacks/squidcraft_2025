@@ -1,0 +1,13 @@
+name = "Piglin-Chan"
+filename = "Piglin-Chan.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jp8iBl4U/versions/GCxNrpPA/Piglin-Chan.zip"
+hash-format = "sha512"
+hash = "3f03a65419daf6924c7582b41cc065499f728c0f20676b9d8611f73a686b4220005f4375a37f947b916c7f8451008e4dd5978f750f21cd485405d2839fa9a982"
+
+[update]
+[update.modrinth]
+mod-id = "jp8iBl4U"
+version = "GCxNrpPA"

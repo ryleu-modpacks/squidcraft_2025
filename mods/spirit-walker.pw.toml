@@ -1,0 +1,13 @@
+name = "Spirit Walker"
+filename = "spirit-walker-0.1.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zbX4s3vj/versions/ul7CZ7pi/spirit-walker-0.1.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5b0136ef017a7937a6a3e30d90d97412147f7edef3577c2f2a65523641099d4923a3c733864eb98ea22c54e413fe5436f8bb207e256d6ade587a6e4936053f3b"
+
+[update]
+[update.modrinth]
+mod-id = "zbX4s3vj"
+version = "ul7CZ7pi"

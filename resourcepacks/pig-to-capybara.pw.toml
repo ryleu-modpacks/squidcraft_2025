@@ -1,0 +1,13 @@
+name = "Pig to capybara"
+filename = "Capybara.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5KOHTwD/versions/5jledngV/Capybara.zip"
+hash-format = "sha512"
+hash = "09349249d2a8a11365df1eeaab17b2aacb9d1b45456958875666e6f68af1c62c6f7661946eb5cef8c351863741acfc2765e9803f17025c81f34d5d1c2864ae79"
+
+[update]
+[update.modrinth]
+mod-id = "V5KOHTwD"
+version = "5jledngV"

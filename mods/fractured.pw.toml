@@ -1,0 +1,13 @@
+name = "Fractured"
+filename = "fractured-1.21.1-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sAL706ks/versions/wCSVOOok/fractured-1.21.1-v1.0.0.jar"
+hash-format = "sha512"
+hash = "cf3702d37c30254c12815a7f026f35b204a877504895d20842840db310ab6eee778c6ce4ab9f669278a9aa2f42260e4d834b735aecc667e7a77f27328af253d2"
+
+[update]
+[update.modrinth]
+mod-id = "sAL706ks"
+version = "wCSVOOok"

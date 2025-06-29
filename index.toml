@@ -146,6 +146,11 @@ hash = "a3f31789a9e455eb59b7f9b11b039f5eefe2a2214286f39483be890ed6ab77a0"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "871b403ab45de3dd8b3fff01eae3cfb05747d015cf4256fcc82a08532e9ac321"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true

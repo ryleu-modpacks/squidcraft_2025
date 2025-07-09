@@ -1,13 +1,13 @@
 name = "Rustic Delight"
-filename = "rusticdelight-fabric-1.21.1-1.4.0.jar"
+filename = "rusticdelight-fabric-1.21.1-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/foa4fGIH/versions/NpZE5gOV/rusticdelight-fabric-1.21.1-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/9M4sPIvb/rusticdelight-fabric-1.21.1-1.4.1.jar"
 hash-format = "sha512"
-hash = "3391688f8853a6d9facd6d8841827dff2988816a5ac1e1de438415551ea12d650acb5a2ca29409f1e78b2598c07105831d5ecd32194670b08a5c6d9a25ba030a"
+hash = "99084d05cbd45e93fde539ac94f9902e7b04769525420ca611b949724c027d8b6d240a1eb59c922178237888fe41d8d345ae421dc28d4904d78d3d6f80e995ed"
 
 [update]
 [update.modrinth]
 mod-id = "foa4fGIH"
-version = "NpZE5gOV"
+version = "9M4sPIvb"
